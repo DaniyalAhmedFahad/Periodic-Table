@@ -95,7 +95,7 @@ body{
   audio,
   video {
     margin: 0;
-    padding: 1px;
+    padding: 0px;
     border: 0;
     font: inherit;
     font-size: 100%;
